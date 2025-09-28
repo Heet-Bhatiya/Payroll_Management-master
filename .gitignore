@@ -129,6 +129,12 @@ Desktop.ini
 *.lnk
 
 
-Views/*
-!Views/Designation/
+#Views/*
+#!Views/Designation/
+Admin/
+Employee/
+Home/
+Payroll/
+Shared/
+User/
 WWWroot/lib/
