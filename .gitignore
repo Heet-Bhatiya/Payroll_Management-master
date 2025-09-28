@@ -129,5 +129,6 @@ Desktop.ini
 *.lnk
 
 
-Views/
+Views/*
+!Views/Designation/
 WWWroot/lib/
