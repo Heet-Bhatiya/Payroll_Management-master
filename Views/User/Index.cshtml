@@ -1,0 +1,8 @@
+﻿@model PayrollWebApp.Models.EmployeeEntity
+
+@{
+    Layout = "_LayoutForUser";
+    ViewData["ID"] = @Model?.EmployeeId;
+}
+
+<partial name="_HomeIndex" />
